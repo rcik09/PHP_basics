@@ -14,6 +14,9 @@ echo "Hello World ";
 ?>
 
 <a href="#">Link Goes Here</a>
-  
+
+<div>
+    <?php include "static/footer.php"; ?>
+</div>
   </body>
 </html>
